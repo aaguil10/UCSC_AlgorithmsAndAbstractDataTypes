@@ -1,0 +1,11 @@
+Alejandro Aguilar aaguil10@ucsc.edu
+
+README
+Lex.c
+List.h
+List.c
+Makefile
+ListClient.c
+
+I was able to free all the Nodes but I was not able to free my List nor Cursor.
+

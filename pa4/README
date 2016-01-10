@@ -1,0 +1,13 @@
+Alejandro Aguilar
+aaguil10@ucsc.edu
+
+README
+List.c
+List.h
+Graph.c
+Graph.h
+GraphTest.c
+FindPath.c
+Makefile
+
+properly prints getPath in in2...
